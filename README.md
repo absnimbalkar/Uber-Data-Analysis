@@ -7,7 +7,6 @@ This project involves the analysis of Uber ride data to derive insights on vario
 Analyze ride data to understand patterns in trip duration, frequency, and geographic distribution.
 Identify peak ride times, busiest locations, and high-demand areas.
 Visualize the data using charts and graphs to provide actionable insights.
-Perform statistical analysis and machine learning (if applicable) to make predictions and uncover hidden trends.
 
 ## Dataset
 The dataset used in this project consists of Uber trip data, which includes columns such as:
